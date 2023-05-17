@@ -5,8 +5,7 @@ input.ng-touched.ng-invalid {
   text-align: center;
 }
 small {
-  /* color: blueviolet; */
-  color: black;
+  color: blueviolet;
 }
 .contact_information {
   text-align: center;
